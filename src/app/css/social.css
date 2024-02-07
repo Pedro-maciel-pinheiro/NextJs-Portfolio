@@ -39,8 +39,9 @@
 
 
 
-.link-footer a {
-  color: rgba(255, 255, 255, 0.5);
+.icons{
+  
+  color: rgba(212, 9, 9, 0.5);
 }
 
 .link-footer a:hover{
@@ -83,7 +84,7 @@
   .footer-colum{
     display: flex;
     align-items: center;
-   justify-content: center;
+    justify-content: center;
     width: 100%;
     top:auto;
     left: 0%;

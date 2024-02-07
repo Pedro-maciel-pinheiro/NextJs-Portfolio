@@ -6,12 +6,14 @@
   font-weight: bold;
   scroll-behavior: smooth;
   scroll-margin: 10rem;
+  overflow: hidden;
   
 }
 
 body {
   position: relative;
   background-color: #030014;
+  
   
 }
 

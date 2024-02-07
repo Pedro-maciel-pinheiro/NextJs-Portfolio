@@ -3,7 +3,6 @@
 import VideoBackground from "./Videobg"
 import StarsCanvas from "./StarBackground";
 
-import { Menu } from "./Menu";
 import { NavBar } from "./NavBar";
 
 import SlideInComponent from "./sub/SlideInComponent";
@@ -20,7 +19,7 @@ export default function Home() {
     <main className="portfolio">
       <NavBar />
       
-      <Menu />
+      
 
       <VideoBackground />
       <SlideInComponent />

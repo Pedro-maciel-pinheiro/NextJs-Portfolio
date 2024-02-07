@@ -1,7 +1,7 @@
 
 
 import VideoBackground from "./Videobg"
-import StarsCanvas from "./StarBackground";
+// import StarsCanvas from "./StarBackground";
 
 import { Menu } from "./Menu";
 import { NavBar } from "./NavBar";
@@ -27,7 +27,7 @@ export default function Home() {
       <Skills />
       <Projetcs />
       <Social/>
-      <StarsCanvas />
+      {/* <StarsCanvas /> */}
 
 
     </main>
